@@ -38,10 +38,3 @@ If you want modify the app and create you own build:
     npm run webpack	
     ```
 
-## Credits
-Initially inspired by [Ember Jeopardy](https://github.com/machty/ember-jeopardy)
-
-## License
-
-- App: MIT
-- Music: [All Rights Reserved ArtIss](https://audiojungle.net/item/motivational-jingle/833613) 
