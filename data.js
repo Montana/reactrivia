@@ -1,76 +1,76 @@
 var data = [
   {
-    "category": "React 101",
+    "category": "Montana 2016",
     "questions": [
       {
         "points": 100,
-        "question": "<p>What part of your application does React focus on?</p><ol><li>The Model</li><li>The View</li><li>The Controller</li><li>All of the above</li></ol>",
-        "answer": "B. The View"
+        "question": "<p>What drug caused Montana Mendy to throw his MacBook away ina publish trashcan? </p><ol><li>Xanax</li><li>Vyvanse</li><li>St Johns Wort</li><li>All of the above</li></ol>",
+        "answer": "D. All of the Above"
       },
       {
         "points": 200,
-        "question": "_____ lets you create JavaScript objects using HTML syntax",
-        "answer": "JSX"
+        "question": "This seems _________",
+        "answer": "Insane"
       },
       {
         "points": 300,
-        "question": "What tool can you use to transpile JSX?",
-        "answer": "Babel"
+        "question": "The girl that Montana want's to respond, but NEVER does",
+        "answer": "Sylvia"
       },
       {
         "points": 400,
-        "question": "React uses a _____________ to limit direct manipulation of the DOM and improve performance",
-        "answer": "Virtual DOM"
+        "question": "Montana uses a certain type of drug, to mainly relax him when he goes to FedEx-Kinkos",
+        "answer": "Klonopin"
       }
     ]
   },
   {
-    "category": "React 201",
+    "category": "Montana 2015",
     "questions": [
       {
         "points": 100,
-        "question": "<p>Where can you define a component's initial state when you use the ES6 Class syntax?</p><ol><li>getInitialState()</li><li>getInitialProps()</li><li>The component's constructor</li></ol>",
-        "answer": "C. The component's constructor"
+        "question": "<p>How much are Montana's FedEx-Kinko shopping spree's usually?",
+        "answer": "$250-300 USD"
       },
       {
         "points": 200,
-        "question": "Using npm, which package should you require/import in addition to 'react' to render a React component in an existing DOM element of your HTML file?",
-        "answer": "react-dom"
+        "question": "Favorite kind of natural tea Montana dips in tea with neutral facial expression",
+        "answer": "Chai something tea" 
       },
       {
         "points": 300,
-        "question": "<p>Which lifecycle function should you use to set default property values?</p><ol><li>getInitialState</li><li>getInitialProps</li><li>getDefaultProps</li></ol>",
-        "answer": "C. getDefaultProps"
+        "question": "<p>True or False, has Montana Mendy ever crawled on the floor to find a .7mg Xanax on BART",
+        "answer":  "True"
       },
       {
         "points": 400,
-        "question": "Which lifecycle method is invoked once, immediately after the initial rendering occurs?",
-        "answer": "componentDidMount"
+        "question": "True or False, Montana Mendy is banned from The New Yorker parties",
+        "answer": "True"
       }
     ]
   },
   {
-    "category": "ES 2015",
+    "category": "Montana 2013",
     "questions": [
       {
         "points": 100,
-        "question": "<p>Constants (const) are:</p><ol><li>Block scoped</li><li>Function scoped</li><li>Global</li></ol>",
-        "answer": "A. Block scoped"
+        "question": "In 2013 did Montana multiply 5x5 without any time constraints and answer 64?",
+        "answer":   "Yes"
       },
       {
         "points": 200,
-        "question": "Name 3 new collection classes in ES2015",
-        "answer": "<ul><li>Map</li><li>WeakMap</li><li>Set</li><li>WeakSet</li></ul>"
+        "question": "In 2013, did Montana Mendy go to Facebook Campus tell Mark Zuckerberg his nickname should be memcahced",
+        "answer": "Yes"
       },
       {
         "points": 300,
-        "question": "<p>What's being logged and how is this new ES6 feature called?</p><code>var colors = ['red', 'blue', 'green'];<br/>var [primary, secondary, tertiary] = colors;<br/>console.log(secondary);</code>",
-        "answer": "<ul><li>blue</li><li>Array destructuring</li></ul>"
+        "question": "Does Montana Mendy remember 2013?",
+        "answer":  "No"
       },
       {
         "points": 400,
-        "question": "<p>What's being logged and name 4 new features of ES6 used in this code snippet?</p><code>let greeting = (name, msg='Hello') => `${msg}, ${name}`;<br/>console.log(greeting('Christophe');</code>",
-        "answer": "<p>Hello, Christophe</p><ul><li>let variables</li><li>Arrow functions</li><li>Default parameters</li><li>Template strings</li></ul>"
+        "question": "What was Montana Mendy's 2013 hit on Stickam for 1 day before Stickam shut it doors?",
+        "answer": "livin la vida coleslaw" 
       }
     ]
   },
@@ -79,23 +79,23 @@ var data = [
     "questions": [
       {
         "points": 100,
-        "question": "Using the proposed ECMAScript module syntax, how do you load the Mortgage.js module from the current directory and make all its members available in an object named mortgage?",
-        "answer": "<code>import * as mortgage from './Mortgage';</code>"
+        "question": "Does Montana Mendy like Xanax or Ativan to treat his anxiety disorder?",
+        "answer":   "Xanax"
       },
       {
         "points": 200,
-        "question": "What are the colors of the olympic rings?",
-        "answer": "<img src='assets/img/olympic_rings.png'/>"
+        "question": "How often does Montana Mendy leave the house?",
+        "answer":   "1x a week"
       },
       {
         "points": 300,
-        "question": "What's the date of the first React commit on GitHub?",
-        "answer": "May 26th, 2013"
+        "question": "How many times has Montana pushed to GitHub with glazed eyes",
+        "answer": "3 confirmed"
       },
       {
         "points": 400,
-        "question": "What's the hex color of the React logo?",
-        "answer": "#61DAFB"
+        "question": "Does Montana Mendy prefer Ruby on Rails or Django?",
+        "answer": "Django"
       }
     ]
   }
