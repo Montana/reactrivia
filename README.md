@@ -1,2 +1,2 @@
-# Montana Mendy built in React 
+# Montana Mendy trivia built in React 
 
