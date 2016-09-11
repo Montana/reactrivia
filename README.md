@@ -4,4 +4,4 @@ Fun for the whole family! Answer questions about Montana Mendy! Built using Reac
 
 ##Credits
 
-Initially inspired by Ember Jeopardy
+Initially inspired by Ember Jeopardy, ccoenraets for the original. 
