@@ -1,6 +1,6 @@
 # Montana Mendy trivia built in React 
 
-Fun for the whole family! Answer questions about Montana Mendy! Built using React. Running sample at www.montanamendy.com/trivia
+Fun for the whole family! Answer questions about Montana Mendy! Built using React. Running development sample at www.montanamendy.com/trivia
 
 ##Credits
 
